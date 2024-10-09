@@ -1,0 +1,14 @@
+footer p, a {
+    color: wheat;
+    text-decoration: none;
+    padding: 3px;
+    letter-spacing: 1px;
+
+}
+
+a:hover {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 2px;
+    color: white;
+}
